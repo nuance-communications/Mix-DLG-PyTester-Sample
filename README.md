@@ -1,8 +1,8 @@
 # Mix Dialog Validation Project
 
-The project aims to provide examples of how one can validate their Mix project through the DLGaaS APIs with the pytest automation framework. This topic was covered on: [Apr 19 - Building a Quality Mix application: effective strategies for testing](https://player.vimeo.com/video/875846864). The project uses a simple YAML format to write test cases that is supported by the sample test app. The project also assumes you have already set up your Python gRPC environment following the Mix documentation [[here](https://docs.nuance.com/mix/apis/dialog-grpc/v1/grpc-setup-dlg/)].
+The project aims to provide examples of how one can validate their Mix project through the DLGaaS APIs with the pytest automation framework. This topic was covered on: <a href="https://player.vimeo.com/video/875846864" target="_blank">Apr 19 - Building a Quality Mix application: effective strategies for testing</a>. The project uses a simple YAML format to write test cases that is supported by the sample test app. The project also assumes you have already set up your Python gRPC environment following the Mix documentation <a href="https://docs.nuance.com/mix/apis/dialog-grpc/v1/grpc-setup-dlg/" target="_blank">here</a>.
 
-The project has two sample test cases that can be used to test the Coffee app quick start [[here]](https://docs.nuance.com/mix/get_started/quick_start/):
+The project has two sample test cases that can be used to test the Coffee app quick start <a href="[https:/](https://docs.nuance.com/mix/get_started/quick_start/)" target="_blank">here</a>:
 
 - Ordering a large coffee step by step
 - Ordering a small coffee step by step
@@ -15,7 +15,7 @@ Each test case has a name, a description, and a sequence of steps that involve u
 - Python 3.8.
 - Pytest 7.3.1
 - The generated Python stubs from gRPC setup. The sample client imports and makes use of these stubs.
-- gRPC setup: [[here](https://docs.nuance.com/mix/apis/dialog-grpc/v1/grpc-setup-dlg/)]
+- gRPC setup: <a href="https://docs.nuance.com/mix/apis/dialog-grpc/v1/grpc-setup-dlg/" target="_blank">here</a>
 - Your client ID and secret from Prerequisites from Mix. This is needed to authorize you to access your previously built and deployed Mix Dialog and NLU model.
 - The Mix URN for your Dialog model
 
