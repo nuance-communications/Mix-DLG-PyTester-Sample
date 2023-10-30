@@ -1,6 +1,6 @@
 # Mix Dialog Validation Project
 
-The project aims to provide examples of how one can validate their Mix project through the DLGaaS APIs with the pytest automation framework. The project uses a simple YAML format to write test cases that is supported by the sample test app. The project also assumes you have already set up your Python gRPC environment following the Mix documentation [[here](https://docs.nuance.com/mix/apis/dialog-grpc/v1/grpc-setup-dlg/)].
+The project aims to provide examples of how one can validate their Mix project through the DLGaaS APIs with the pytest automation framework. This topic was covered on: [Apr 19 - Building a Quality Mix application: effective strategies for testing](https://vimeo.com/875846864). The project uses a simple YAML format to write test cases that is supported by the sample test app. The project also assumes you have already set up your Python gRPC environment following the Mix documentation [[here](https://docs.nuance.com/mix/apis/dialog-grpc/v1/grpc-setup-dlg/)].
 
 The project has two sample test cases that can be used to test the Coffee app quick start [[here]](https://docs.nuance.com/mix/get_started/quick_start/):
 
