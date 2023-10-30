@@ -1,0 +1,7 @@
+{
+    "client_id": "<REPLACE_ME>",
+    "secret": "<REPLACE_ME>",
+    "modelUrn": "urn:nuance-mix:tag:model/<REPLACE_ME>/mix.dialog",
+	"scope":"dlg",
+    "sleep":1
+}

@@ -1,0 +1,12 @@
+grpcio
+requests
+protobuf
+requests_oauthlib
+openpyxl
+simplejson
+pytest==7.3.1
+pytest-html==3.2.0
+pytest-dependency==0.5.1
+jsonschema
+pyyaml
+

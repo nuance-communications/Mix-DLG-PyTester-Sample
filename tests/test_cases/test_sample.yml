@@ -1,0 +1,17 @@
+test_cases:
+  - name: order large coffee step by step                               # Name of the test case
+    description: >                                                      # Description of the test case
+      This test case verifies that ordering a large coffee is working.
+    steps:                                                              # Steps involved in the test case
+      - Hello and welcome to the coffee app? : order coffee             # First step with user prompt and NLU action
+      - What size coffee would you like? : large                        # Second step with user prompt and NLU action
+      - Perfect, a large coffee coming right up?                        # Third step with NLU response
+
+  - name: order small coffee step by step                               # Name of the test case
+    description: >                                                      # Description of the test case
+      This test case verifies that ordering a small coffee is working.
+    steps:                                                              # Steps involved in the test case
+      - Hello and welcome to the coffee app? : order coffee             # First step with user prompt and NLU action
+      - What size coffee would you like? : small                        # Second step with user prompt and NLU action
+      - Perfect, a small coffee coming right up?                        # Third step with NLU response
+
